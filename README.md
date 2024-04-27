@@ -1,5 +1,8 @@
 # datathon
 
+## "Rules"
+- work with relative paths, not absolute
+
 ## Preferences
 
 1. Axpo: Regression
