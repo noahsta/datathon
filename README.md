@@ -10,6 +10,7 @@ Technical report can be found in \doc, all relevant code can be found in \src\ma
 
 \doc
 
+ -> GroupPresentation.pdf
  -> technichal_report.ipynb
 
 \data
