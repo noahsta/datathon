@@ -1,11 +1,13 @@
 # datathon
+Submission by ""
+Michal Mikuta, Elias Mbarek, Maxim Huber, Noah Stäuble
 
-## "Rules"
-- work with relative paths, not absolute
+Technical report can be found at
+\src
+\doc
+ -> technichal_report.ipynb
+\data
+\out
+README.md
+.gitignore
 
-## Preferences
-
-1. Axpo: Regression
-2. UBS: Anomaly detection
-3. Alpiq: Time series
-4. Think-cell: Computer vision
